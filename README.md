@@ -4,6 +4,7 @@
 [![GitHub BanhMiRuoc](https://img.shields.io/github/followers/BanhMiRuoc?label=follow&style=social)](https://github.com/BanhMiRuoc)
 [![Discord IT](https://img.shields.io/discord/1021058213271060550
 )](https://discord.com/channels/1021058213271060550/1022517117603557477)
+[![Email: Trang Mai](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](traang180204@gmail.com)
 <!--
 **BanhMiRuoc/BanhMiRuoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
