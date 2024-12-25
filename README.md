@@ -5,8 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-🔭 I’m currently working on Ton Duc Thang university and I'm a freelancer
-🌱 I’m currently learning Java Spring boot
+🔭 I’m currently working on Ton Duc Thang university and I'm a freelancer.
+
+🌱 I’m currently learning Java Spring boot.
+
 ⚡ Fun fact: I wanna be a meomeo nyan
 
 ## Stas
