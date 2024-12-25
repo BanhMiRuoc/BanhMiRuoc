@@ -1,4 +1,4 @@
-# Hi, I'm BanhMiRuoc
+# Hi, I'm BanhMiRuoc  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 [![Linkedin: Trang Mai](https://img.shields.io/trang-mai-465930314-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trang-mai-465930314/)](https://www.linkedin.com/in/trang-mai-465930314/)
 [![GitHub BanhMiRuoc](https://img.shields.io/github/followers/BanhMiRuoc?label=follow&style=social)](https://github.com/BanhMiRuoc)
