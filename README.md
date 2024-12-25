@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Stas
 ![BanhMiRuoc's GitHub stats](https://github-readme-stats.vercel.app/api?username=BanhMiRuoc&theme=cobalt&show_icons=true)
+
+## Repo Card
+
+![BanhMiRuoc's GitHub Repo card](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark).
