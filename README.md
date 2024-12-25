@@ -1,6 +1,6 @@
 # Hi, I'm BanhMiRuoc  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-[![Linkedin: Trang Mai](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trang-mai-465930314/)](https://www.linkedin.com/in/trang-mai-465930314/)
+[![Linkedin: Trang Mai](https://img.shields.io/badge/-trangmai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trang-mai-465930314/)](https://www.linkedin.com/in/trang-mai-465930314/)
 [![GitHub BanhMiRuoc](https://img.shields.io/github/followers/BanhMiRuoc?label=follow&style=social)](https://github.com/BanhMiRuoc)
 [![Discord IT](https://img.shields.io/discord/1021058213271060550
 )](https://discord.com/channels/1021058213271060550/1022517117603557477)
