@@ -1,5 +1,11 @@
 # Hi, I'm BanhMiRuoc
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
+[![Facebook: Trang Mai]](https://www.facebook.com/bmr1802/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-trang-mai-465930314-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trang-mai-465930314/)](https://www.linkedin.com/in/trang-mai-465930314/)
+[![GitHub BanhMiRuoc](https://img.shields.io/github/followers/BanhMiRuoc?label=follow&style=social)](https://github.com/BanhMiRuoc)
+[![Discord IT](https://img.shields.io/discord/1021058213271060550
+)](https://discord.com/channels/1021058213271060550/1022517117603557477)
 <!--
 **BanhMiRuoc/BanhMiRuoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
