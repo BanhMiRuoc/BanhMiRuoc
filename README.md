@@ -5,12 +5,7 @@
 [![Discord IT](https://img.shields.io/discord/1021058213271060550
 )](https://discord.com/channels/1021058213271060550/1022517117603557477)
 [![Email: Trang Mai](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](traang180204@gmail.com)
-<!--
-**BanhMiRuoc/BanhMiRuoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-redicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
--->
 🔭 I’m currently working on Ton Duc Thang University as a intership --- Part Time Teacher --- Freelancer as a Web Developer.
 
 🌱 I’m currently learning Java Spring boot, ReacJS, NodeJS,...
@@ -21,10 +16,10 @@ redicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
 
 ⚡ Fun fact: I wanna be meomeo nyan.
 
-## Stas
+## Stas ⭐
 ![BanhMiRuoc's GitHub stats](https://github-readme-stats.vercel.app/api?username=BanhMiRuoc&theme=cobalt&show_icons=true)
 
-## Repo Card
+## Repo Card 🥖
 
 ![BanhMiRuoc's GitHub Repo card](https://github-readme-stats.vercel.app/api?username=BanhMiRuoc&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt).
 
@@ -38,4 +33,4 @@ redicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
 
 ---
 
-⭐️ From [@BanhMiRuoc](https://github.com/BanhMiRuoc)
+❤️ From [@BanhMiRuoc](https://github.com/BanhMiRuoc) :octocat:
